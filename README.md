@@ -7,9 +7,6 @@ I’m currently working on Cisco, Fortinet, Juniper, AWS, Azure, Node.js, Vue.js
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kARAT97&theme=gruvbox&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kARAT97&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
